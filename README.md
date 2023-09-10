@@ -4,7 +4,8 @@ other microservices
 3. ReminderService : [https://github.com/shivakr07/ReminderService]
 4. AuthService : [https://github.com/shivakr07/Auth_Service]
 5. 
-<span style = {color : Blue}> An API Gateway acts as a mediator between client applications and backend services in microservices architecture. It is a software layer that functions as a single endpoint for various APIs performing tasks such as request composition, routing, and protocol translation. The API gateway controls requests and responses by managing the traffic of APIs while enforcing security policies.</span>
+<font color="#800080">An API Gateway acts as a mediator between client applications and backend services in microservices architecture. It is a software layer that functions as a single endpoint for various APIs performing tasks such as request composition, routing, and protocol translation. The API gateway controls requests and responses by managing the traffic of APIs while enforcing security policies.</font>
+
 
 FRONTEND  - MIDDLE-END  -  BACKEND
 
