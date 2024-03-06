@@ -1,4 +1,5 @@
-other microservices
+- api gateway to other microservices
+- microservices linked to each other using api gateway
 1. FlightandSearch : [https://github.com/shivakr07/FlightsandSearchService]
 2. BookingService : [https://github.com/shivakr07/AirTicketBookingService]
 3. ReminderService : [https://github.com/shivakr07/ReminderService]
